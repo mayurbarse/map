@@ -4,47 +4,15 @@
     "count": 1
   },
   {
-    "course": "ARTIFICIAL INTELLIGENCE",
-    "count": 4
-  },
-  {
     "course": "ARTIFICIAL INTELLIGENCE (AI)",
     "count": 20
-  },
-  {
-    "course": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
-    "count": 276
   },
   {
     "course": "AUTOMOTIVE ENGINEERING",
     "count": 1
   },
   {
-    "course": "B. TECH - COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
-    "count": 7
-  },
-  {
-    "course": "B.Tech (Civil Engineering)",
-    "count": 3
-  },
-  {
-    "course": "B.Tech (Computer Science & Engineering)",
-    "count": 2
-  },
-  {
-    "course": "B.Tech (Mechanical Engineering)",
-    "count": 3
-  },
-  {
     "course": "B.TECH.",
-    "count": 1
-  },
-  {
-    "course": "B.Tech. (Electronics & Communication Engineering)",
-    "count": 1
-  },
-  {
-    "course": "B.TECH. COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND DATA ANALYTICS)",
     "count": 1
   },
   {
@@ -72,10 +40,6 @@
     "count": 1
   },
   {
-    "course": "CHEMICAL TECHNOLOGY (LEATHER TECHNOLOGY)",
-    "count": 2
-  },
-  {
     "course": "CIVIL AND STRUCTURAL ENGINEERING",
     "count": 1
   },
@@ -100,22 +64,6 @@
     "count": 1
   },
   {
-    "course": "COMPUTER SCEINCE & ENGINEERING",
-    "count": 3
-  },
-  {
-    "course": "COMPUTER SCEINCE AND ENGINEERING",
-    "count": 7
-  },
-  {
-    "course": "COMPUTER SCIENCE",
-    "count": 42
-  },
-  {
-    "course": "COMPUTER SCIENCE & BUSINESS SYSTEM",
-    "count": 2
-  },
-  {
     "course": "COMPUTER SCIENCE & ENGINEERING (IOT)",
     "count": 2
   },
@@ -130,18 +78,6 @@
   {
     "course": "COMPUTER SCIENCE & ENGINEERING(DATA SCIENCES)",
     "count": 1
-  },
-  {
-    "course": "Computer Science and Artificial Intelligence",
-    "count": 1
-  },
-  {
-    "course": "COMPUTER SCIENCE AND BUSINESS SYSTEM",
-    "count": 31
-  },
-  {
-    "course": "COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE)",
-    "count": 15
   },
   {
     "course": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY AND INTERNET OF THINGS)",
@@ -168,8 +104,8 @@
     "count": 1
   },
   {
-    "course": "COMPUTER SCIENCE AND ENGINEERING(ARTIFICIAL INTELLIGENCE AND DATA SCIENCE)",
-    "count": 2
+    "course": "COMPUTER SCIENCE AND ENGINEERING(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",
+    "count": 1
   },
   {
     "course": "COMPUTER SCIENCE AND ENGINEERING(BLOCK CHAIN)",
@@ -180,15 +116,7 @@
     "count": 1
   },
   {
-    "course": "COMPUTER SCIENCE AND MEDICAL ENGINEERING (ARTIFICIAL INTELLIGENCE AND DATA ANALYTICS)",
-    "count": 1
-  },
-  {
     "course": "COMPUTING IN COMPUTING",
-    "count": 1
-  },
-  {
-    "course": "COMPUTR SCIENCE AND ENGINEERING(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
     "count": 1
   },
   {
@@ -198,14 +126,6 @@
   {
     "course": "CYBER FORENSICS AND INFORMATION SECURITY",
     "count": 1
-  },
-  {
-    "course": "CYBER SECURITY",
-    "count": 10
-  },
-  {
-    "course": "DATA SCIENCE",
-    "count": 6
   },
   {
     "course": "DATA SCIENCES",
@@ -256,10 +176,6 @@
     "count": 1
   },
   {
-    "course": "ELECTRONICS AND COMMUNICATION ENGINEERING (BIO-MEDICAL ENGINEERING)",
-    "count": 1
-  },
-  {
     "course": "ELECTRONICS AND COMMUNICATION ENGINEERING (SANDWICH)",
     "count": 1
   },
@@ -274,10 +190,6 @@
   {
     "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING(WOMEN)",
     "count": 1
-  },
-  {
-    "course": "ELECTRONICS AND COMPUTER SCIENCE",
-    "count": 28
   },
   {
     "course": "ELECTRONICS AND TELEMATICS ENGINEERING",
@@ -352,14 +264,6 @@
     "count": 1
   },
   {
-    "course": "INSTRUMENTATION & CONTROL",
-    "count": 1
-  },
-  {
-    "course": "INSTRUMENTATION AND CONTROL",
-    "count": 1
-  },
-  {
     "course": "INTERNET OF THINGS (IOT)",
     "count": 2
   },
@@ -396,24 +300,12 @@
     "count": 11
   },
   {
-    "course": "MECHANICAL AND MECHATRONICS ENGINEERING (ADDITIVE MANUFACTURING)",
-    "count": 4
-  },
-  {
-    "course": "MECHANICAL AND MECHATRONICS ENGINEERING(ADDITIVE MANUFACTURING)",
-    "count": 1
-  },
-  {
     "course": "MECHANICAL AND RAIL ENGINEERING",
     "count": 1
   },
   {
     "course": "MECHANICAL AND SMART MANUFACTURING",
     "count": 5
-  },
-  {
-    "course": "MECHANICAL ENGINEERING (MANUFACTURING ENGINEERING)",
-    "count": 1
   },
   {
     "course": "MECHANICAL ENGINEERING (MANUFACTURING)",
@@ -536,10 +428,6 @@
     "count": 2
   },
   {
-    "course": "ROBOTICS",
-    "count": 1
-  },
-  {
     "course": "ROBOTICS AND ARTIFICIAL INTELLIGENCE",
     "count": 15
   },
@@ -557,10 +445,6 @@
   },
   {
     "course": "SMART AND SUSTAINABLE ENERGY",
-    "count": 1
-  },
-  {
-    "course": "SOFTWARE ENGINEERING",
     "count": 1
   },
   {
