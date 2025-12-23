@@ -1,0 +1,574 @@
+[
+  {
+    "course": "ADVANCED ELECTRONICS AND COMMUNICATION ENGINEERING",
+    "count": 1
+  },
+  {
+    "course": "ARTIFICIAL INTELLIGENCE",
+    "count": 4
+  },
+  {
+    "course": "ARTIFICIAL INTELLIGENCE (AI)",
+    "count": 20
+  },
+  {
+    "course": "ARTIFICIAL INTELLIGENCE AND DATA SCIENCE",
+    "count": 276
+  },
+  {
+    "course": "AUTOMOTIVE ENGINEERING",
+    "count": 1
+  },
+  {
+    "course": "B. TECH - COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+    "count": 7
+  },
+  {
+    "course": "B.Tech (Civil Engineering)",
+    "count": 3
+  },
+  {
+    "course": "B.Tech (Computer Science & Engineering)",
+    "count": 2
+  },
+  {
+    "course": "B.Tech (Mechanical Engineering)",
+    "count": 3
+  },
+  {
+    "course": "B.TECH.",
+    "count": 1
+  },
+  {
+    "course": "B.Tech. (Electronics & Communication Engineering)",
+    "count": 1
+  },
+  {
+    "course": "B.TECH. COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND DATA ANALYTICS)",
+    "count": 1
+  },
+  {
+    "course": "BACHELOR OF DESIGN (B.Des.)",
+    "count": 1
+  },
+  {
+    "course": "BIOENGINEERING",
+    "count": 1
+  },
+  {
+    "course": "BIOINFORMATICS AND DATA SCIENCE",
+    "count": 1
+  },
+  {
+    "course": "Biotechnology and Bioengineering",
+    "count": 1
+  },
+  {
+    "course": "BLOCK CHAIN",
+    "count": 2
+  },
+  {
+    "course": "CHEMICAL ENGINEERING (Green Technology and Sustainability Engineering)",
+    "count": 1
+  },
+  {
+    "course": "CHEMICAL TECHNOLOGY (LEATHER TECHNOLOGY)",
+    "count": 2
+  },
+  {
+    "course": "CIVIL AND STRUCTURAL ENGINEERING",
+    "count": 1
+  },
+  {
+    "course": "Civil, Construction and Sustainability Engineering",
+    "count": 1
+  },
+  {
+    "course": "CLOUD COMPUTING",
+    "count": 2
+  },
+  {
+    "course": "COMMUNICATION AND COMPUTER ENGINEERING",
+    "count": 1
+  },
+  {
+    "course": "COMPUTER AIDED DESIGN AND MANUFACTURE",
+    "count": 1
+  },
+  {
+    "course": "COMPUTER AIDED DESIGN MANUFACTURE AND ENGINEERING",
+    "count": 1
+  },
+  {
+    "course": "COMPUTER SCEINCE & ENGINEERING",
+    "count": 3
+  },
+  {
+    "course": "COMPUTER SCEINCE AND ENGINEERING",
+    "count": 7
+  },
+  {
+    "course": "COMPUTER SCIENCE",
+    "count": 42
+  },
+  {
+    "course": "COMPUTER SCIENCE & BUSINESS SYSTEM",
+    "count": 2
+  },
+  {
+    "course": "COMPUTER SCIENCE & ENGINEERING (IOT)",
+    "count": 2
+  },
+  {
+    "course": "Computer Science & Engineering with specialiation in Big Data Analytics",
+    "count": 1
+  },
+  {
+    "course": "Computer Science & Engineering with Specialisation in Artificial Intelligence & Machine Learning",
+    "count": 1
+  },
+  {
+    "course": "COMPUTER SCIENCE & ENGINEERING(DATA SCIENCES)",
+    "count": 1
+  },
+  {
+    "course": "Computer Science and Artificial Intelligence",
+    "count": 1
+  },
+  {
+    "course": "COMPUTER SCIENCE AND BUSINESS SYSTEM",
+    "count": 31
+  },
+  {
+    "course": "COMPUTER SCIENCE AND ENGINEERING (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE)",
+    "count": 15
+  },
+  {
+    "course": "COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY AND INTERNET OF THINGS)",
+    "count": 1
+  },
+  {
+    "course": "COMPUTER SCIENCE AND ENGINEERING (FULL STACK DEVELOPMENT)",
+    "count": 1
+  },
+  {
+    "course": "COMPUTER SCIENCE AND ENGINEERING (INTERNET OF THINGS AND CYBER SECURITY INCLUDING BLOCK CHAIN TECHNO",
+    "count": 39
+  },
+  {
+    "course": "COMPUTER SCIENCE AND ENGINEERING (IOT AND CYBER SECURITY WITH BLOCK CHAIN TECHNOLOGY)",
+    "count": 1
+  },
+  {
+    "course": "COMPUTER SCIENCE AND ENGINEERING (IOT)",
+    "count": 14
+  },
+  {
+    "course": "COMPUTER SCIENCE AND ENGINEERING WITH SPECIALISATION IN INTERNET OF THINGS",
+    "count": 1
+  },
+  {
+    "course": "COMPUTER SCIENCE AND ENGINEERING(ARTIFICIAL INTELLIGENCE AND DATA SCIENCE)",
+    "count": 2
+  },
+  {
+    "course": "COMPUTER SCIENCE AND ENGINEERING(BLOCK CHAIN)",
+    "count": 1
+  },
+  {
+    "course": "COMPUTER SCIENCE AND ENGINEERING(WOMEN)",
+    "count": 1
+  },
+  {
+    "course": "COMPUTER SCIENCE AND MEDICAL ENGINEERING (ARTIFICIAL INTELLIGENCE AND DATA ANALYTICS)",
+    "count": 1
+  },
+  {
+    "course": "COMPUTING IN COMPUTING",
+    "count": 1
+  },
+  {
+    "course": "COMPUTR SCIENCE AND ENGINEERING(ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING)",
+    "count": 1
+  },
+  {
+    "course": "CSE(BIG DATA ANALYTICS)",
+    "count": 1
+  },
+  {
+    "course": "CYBER FORENSICS AND INFORMATION SECURITY",
+    "count": 1
+  },
+  {
+    "course": "CYBER SECURITY",
+    "count": 10
+  },
+  {
+    "course": "DATA SCIENCE",
+    "count": 6
+  },
+  {
+    "course": "DATA SCIENCES",
+    "count": 23
+  },
+  {
+    "course": "DIARY TECHNOLOGY",
+    "count": 1
+  },
+  {
+    "course": "ELECTRIC VEHICLES",
+    "count": 1
+  },
+  {
+    "course": "ELECTRICAL AND ELECTRONICS ENGINEERING(WOMEN)",
+    "count": 1
+  },
+  {
+    "course": "Electrical Engineering and Computer Science",
+    "count": 1
+  },
+  {
+    "course": "ELECTRICAL, ELECTRONICS AND POWER",
+    "count": 1
+  },
+  {
+    "course": "ELECTRICAL, ELECTRONICS AND POWER ENGINEERING",
+    "count": 1
+  },
+  {
+    "course": "ELECTRONIC ENGINEERING",
+    "count": 9
+  },
+  {
+    "course": "ELECTRONICS",
+    "count": 1
+  },
+  {
+    "course": "Electronics & Communication Engineering with specialisation in Data Science",
+    "count": 1
+  },
+  {
+    "course": "ELECTRONICS AND BIOMEDICAL ENGINEERING",
+    "count": 2
+  },
+  {
+    "course": "ELECTRONICS AND COMMUNICATION (COMMUNICATION SYSTEM ENGINEERING)",
+    "count": 1
+  },
+  {
+    "course": "ELECTRONICS AND COMMUNICATION ENGINEERING (BIO-MEDICAL ENGINEERING)",
+    "count": 1
+  },
+  {
+    "course": "ELECTRONICS AND COMMUNICATION ENGINEERING (SANDWICH)",
+    "count": 1
+  },
+  {
+    "course": "Electronics and Communication Engineering (VLSI DESIGN & TECHNOLOGY)",
+    "count": 3
+  },
+  {
+    "course": "Electronics and Communication(Advanced Communication Technology)",
+    "count": 7
+  },
+  {
+    "course": "ELECTRONICS AND COMMUNICATIONS ENGINEERING(WOMEN)",
+    "count": 1
+  },
+  {
+    "course": "ELECTRONICS AND COMPUTER SCIENCE",
+    "count": 28
+  },
+  {
+    "course": "ELECTRONICS AND TELEMATICS ENGINEERING",
+    "count": 1
+  },
+  {
+    "course": "Electronics Engineering (VLSI and Embedded System)",
+    "count": 1
+  },
+  {
+    "course": "ELECTRONICS ENGINEERING (VLSI DESIGN AND TECHNOLOGY)",
+    "count": 44
+  },
+  {
+    "course": "ENERGY ENGINEERING",
+    "count": 3
+  },
+  {
+    "course": "ENVIRONMENTAL SCIENCE AND TECHNOLOGY",
+    "count": 2
+  },
+  {
+    "course": "EV-TECHNOLOGY",
+    "count": 1
+  },
+  {
+    "course": "FACILITIES AND SERVICES PLANNING",
+    "count": 1
+  },
+  {
+    "course": "FASHION AND APPAREL ENGINEERING",
+    "count": 2
+  },
+  {
+    "course": "FIBRES AND TEXTILES PROCESSING TECHNOLOGY",
+    "count": 1
+  },
+  {
+    "course": "FISHERIES ENGINEERING",
+    "count": 1
+  },
+  {
+    "course": "FOOD ENGINEERING AND TECHNOLOGY",
+    "count": 6
+  },
+  {
+    "course": "FOOD PROCESSING AND ENGINEERING",
+    "count": 1
+  },
+  {
+    "course": "FOOD SCIENCE AND TECHNOLOGY",
+    "count": 1
+  },
+  {
+    "course": "FOOD TECHNOLOGY AND MANAGEMENT",
+    "count": 2
+  },
+  {
+    "course": "INDUSTRIAL BIOTECHNOLOGY",
+    "count": 1
+  },
+  {
+    "course": "INDUSTRIAL ENGINEERING",
+    "count": 1
+  },
+  {
+    "course": "INDUSTRIAL ENGINEERING AND MANAGEMENT",
+    "count": 4
+  },
+  {
+    "course": "INFORMATION TECHNOLOGY(CLOUD & MOBILE BASED APPLICATION DEVELOPMENT)",
+    "count": 1
+  },
+  {
+    "course": "INSTRUMENTATION & CONTROL",
+    "count": 1
+  },
+  {
+    "course": "INSTRUMENTATION AND CONTROL",
+    "count": 1
+  },
+  {
+    "course": "INTERNET OF THINGS (IOT)",
+    "count": 2
+  },
+  {
+    "course": "JUTE AND FIBRE TECHNOLOGY",
+    "count": 1
+  },
+  {
+    "course": "MAN MADE FIBRE TECHNOLOGY",
+    "count": 1
+  },
+  {
+    "course": "MAN-MADE TEXTILE TECHNOLOGY",
+    "count": 1
+  },
+  {
+    "course": "MANUFACTURING ENGINEERING AND TECHNOLOGY",
+    "count": 1
+  },
+  {
+    "course": "MANUFACTURING SCIENCE AND ENGINEERING",
+    "count": 1
+  },
+  {
+    "course": "MATHEMATICS AND COMPUTING",
+    "count": 1
+  },
+  {
+    "course": "Mechanical and Aerospace Engineering",
+    "count": 1
+  },
+  {
+    "course": "MECHANICAL AND AUTOMATION ENGINEERING",
+    "count": 11
+  },
+  {
+    "course": "MECHANICAL AND MECHATRONICS ENGINEERING (ADDITIVE MANUFACTURING)",
+    "count": 4
+  },
+  {
+    "course": "MECHANICAL AND MECHATRONICS ENGINEERING(ADDITIVE MANUFACTURING)",
+    "count": 1
+  },
+  {
+    "course": "MECHANICAL AND RAIL ENGINEERING",
+    "count": 1
+  },
+  {
+    "course": "MECHANICAL AND SMART MANUFACTURING",
+    "count": 5
+  },
+  {
+    "course": "MECHANICAL ENGINEERING (MANUFACTURING ENGINEERING)",
+    "count": 1
+  },
+  {
+    "course": "MECHANICAL ENGINEERING (MANUFACTURING)",
+    "count": 1
+  },
+  {
+    "course": "MECHANICAL ENGINEERING (PROD)",
+    "count": 1
+  },
+  {
+    "course": "MECHANICAL ENGINEERING (SANDWICH)",
+    "count": 2
+  },
+  {
+    "course": "Mechanical Engineering with specialisation in Artificial Intelligence and Machine Learning",
+    "count": 1
+  },
+  {
+    "course": "MECHATRONICS ENGINEERING",
+    "count": 27
+  },
+  {
+    "course": "MEDICAL BIOTECHNOLGY",
+    "count": 1
+  },
+  {
+    "course": "MEDICAL ELECTRONICS",
+    "count": 3
+  },
+  {
+    "course": "METALLURGICAL AND MATERIALS ENGINEERING",
+    "count": 10
+  },
+  {
+    "course": "METALLURGY AND MATERIAL TECHNOLOGY",
+    "count": 1
+  },
+  {
+    "course": "Mining and Mineral Processing",
+    "count": 1
+  },
+  {
+    "course": "NANO SCIENCE AND TECHNOLOGY",
+    "count": 2
+  },
+  {
+    "course": "NANO TECHNOLOGY",
+    "count": 1
+  },
+  {
+    "course": "NAVAL ARCHITECTURE & SHIP BUILDING ENGG",
+    "count": 2
+  },
+  {
+    "course": "Naval Architecture and Offshore Engineering",
+    "count": 2
+  },
+  {
+    "course": "NAVAL ARCHITECTURE AND SHIP BUILDING ENGINEERING",
+    "count": 1
+  },
+  {
+    "course": "OIL AND PAINT TECHNOLOGY",
+    "count": 1
+  },
+  {
+    "course": "OIL TECHNOLOGY",
+    "count": 3
+  },
+  {
+    "course": "OILS, OLEOCHEMICALS AND SURFACTANTS TECHNOLOGY",
+    "count": 1
+  },
+  {
+    "course": "PHARMACEUTICAL ENGINEERING",
+    "count": 3
+  },
+  {
+    "course": "PHARMACEUTICAL TECHNOLOGY",
+    "count": 5
+  },
+  {
+    "course": "POLYMER ENGINEERING",
+    "count": 2
+  },
+  {
+    "course": "POLYMER ENGINEERING AND TECHNOLOGY",
+    "count": 1
+  },
+  {
+    "course": "POLYMER SCIENCE AND TECHNOLOGY",
+    "count": 2
+  },
+  {
+    "course": "POULTRY TECHNOLOGY",
+    "count": 1
+  },
+  {
+    "course": "POWER ELECTRONICS AND INSTRUMENTATION ENGINEERING",
+    "count": 1
+  },
+  {
+    "course": "POWER ELECTRONICS ENGINEERING",
+    "count": 1
+  },
+  {
+    "course": "PRINTING AND PACK TECHNOLOGY",
+    "count": 1
+  },
+  {
+    "course": "PRINTING AND PACKAGING TECHNOLOGY",
+    "count": 2
+  },
+  {
+    "course": "PRODUCTION ENGINEERING (SANDWICH)",
+    "count": 1
+  },
+  {
+    "course": "PULP TECHNOLOGY",
+    "count": 2
+  },
+  {
+    "course": "ROBOTICS",
+    "count": 1
+  },
+  {
+    "course": "ROBOTICS AND ARTIFICIAL INTELLIGENCE",
+    "count": 15
+  },
+  {
+    "course": "ROBOTICS AND AUTOMATION",
+    "count": 32
+  },
+  {
+    "course": "SAFETY AND FIRE ENGINEERING",
+    "count": 6
+  },
+  {
+    "course": "SILK TECHNOLOGY",
+    "count": 1
+  },
+  {
+    "course": "SMART AND SUSTAINABLE ENERGY",
+    "count": 1
+  },
+  {
+    "course": "SOFTWARE ENGINEERING",
+    "count": 1
+  },
+  {
+    "course": "TECHNICAL TEXTILES",
+    "count": 1
+  },
+  {
+    "course": "WASTE MANAGEMENT",
+    "count": 1
+  }
+]
